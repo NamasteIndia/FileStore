@@ -41,6 +41,8 @@ FORCE_SUB_CHANNEL2 = get_int_env_var("FORCE_SUB_CHANNEL2")
 
 TG_BOT_WORKERS = get_int_env_var("TG_BOT_WORKERS", 4)
 
+FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "10")) # auto delete in seconds
+
 START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/8784a1e815fcd20eff3a4.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/8784a1e815fcd20eff3a4.jpg")
 
