@@ -2,6 +2,7 @@
 
 from aiohttp import web
 from plugins import web_server
+import pyrogram.utils  # Importing pyrogram.utils
 
 import pyromod.listen
 from pyrogram import Client
