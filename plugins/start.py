@@ -8,9 +8,9 @@ from config import *
 from helper_func import subscribed, encode, decode, get_messages
 from database.database import add_user, del_user, full_userbase, present_user
 
-codeflixbots = FILE_AUTO_DELETE
-subaru = codeflixbots
-file_auto_delete = humanize.naturaldelta(subaru)
+sukumarnanda = FILE_AUTO_DELETE
+boss = sukumarnanda
+file_auto_delete = humanize.naturaldelta(boss)
 
 @Bot.on_message(filters.command('start') & filters.private & subscribed)
 async def start_command(client: Client, message: Message):
