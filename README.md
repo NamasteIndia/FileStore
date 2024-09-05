@@ -7,7 +7,7 @@
   use koyeb config vars (avoid editing config.py if newbie)
   Buildpack run command "python3 main.py"
 </h2>
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1jgmz.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 
 <h2 align="center">
