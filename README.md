@@ -8,7 +8,7 @@
   Buildpack run command "python3 main.py"
 </h2>
 
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1jgmz.svg)](https://tgstatus.liteapks.org/?utm_source=status_badge)
 
 <h2 align="center">
   ─「 ғɪʟᴇ sʜᴀʀɪɴɢ ʙᴏᴛ 」─
